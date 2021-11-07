@@ -66,7 +66,7 @@
 
 3. Control   
     - `속도 증가` : self.database.control.up()&nbsp;&nbsp;&nbsp;OR&nbsp;&nbsp;&nbsp;self.up(num)
-    - `속도 감소` : self.database.control.down()    OR    self.down(num)
+    - `속도 감소` : self.database.control.down()&#160;OR&#160;self.down(num)
     - `좌로 조향` : self.database.control.left()    OR    self.left(num)
     - `우로 조향` : self.database.control.right()    OR    self.right(num)
 
